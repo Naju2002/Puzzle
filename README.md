@@ -7,7 +7,6 @@ Quebra-cabeça desenvolvido em Unity2D
 
 <div align="center" style="display: inline_block"> <br> 
    <img align="center" alt="Naju-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971211319384612915/1045133439814352926/picasion.com_5e62b3a7cff90cd45101acc87bacd360.gif">
-
 </div>
 
 <div align="center" style="display: inline_block"> <br>
